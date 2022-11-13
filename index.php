@@ -63,9 +63,9 @@ include('lignemain.php');
       <div class="container" data-aos="fade-up">
       <div class="section-title">
           <h2>Services  </h2>
-          <h3><span>Accedez en temps réel à des ervices de qualité </span></h3>
+          <h3><span>Accedez en temps réel à des services de qualité </span></h3>
           <p>On en veux toujours plus.</p>
-        </div>
+        </div>         
         <div class="row">
           <div class="col-md-6 col-lg-3 d-flex align-items-stretch mb-5 mb-lg-0">
             <div class="icon-box" data-aos="fade-up" data-aos-delay="100">

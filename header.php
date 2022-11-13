@@ -5,7 +5,7 @@
   <meta charset="utf-8">
   <meta content="width=device-width, initial-scale=1.0" name="viewport">
 
-  <title>WebTronBlue WebTronix - Offciel</title>
+  <title>WebTronBlue WebTronix - Officiel</title>
   <meta content="Développement des Logiciels de qualité- web hosting- audit informatique- White hacking" name="description">
   <meta content="" name="keywords">
 

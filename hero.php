@@ -1,5 +1,5 @@
   <!-- ======= Hero Section ======= -->
-  <section id="hero" class="d-flex align-items-center">
+  <section id="hero" class="d-flex align-items-center ">
     <div class="container" data-aos="zoom-out" data-aos-delay="100">
       <h1>Welcome to <span>WebTron<span class="text-danger">Blue</span></span></h1>
       <h2>
