@@ -1,12 +1,12 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="fr">
 
 <head>
   <meta charset="utf-8">
   <meta content="width=device-width, initial-scale=1.0" name="viewport">
 
-  <title>WebTronBlue WebTronix - Index</title>
-  <meta content="Developpement des Logiciels de qualité- web hosting- audit informatique- White hacking" name="description">
+  <title>WebTronBlue WebTronix - Offciel</title>
+  <meta content="Développement des Logiciels de qualité- web hosting- audit informatique- White hacking" name="description">
   <meta content="" name="keywords">
 
   <!-- Favicons -->
@@ -58,21 +58,21 @@
       <nav id="navbar" class="navbar">
         <ul>
           <li><a class="nav-link scrollto active" href="/">Accueil</a></li>
-          <li><a class="nav-link scrollto" href="formations.php">Formations</a></li>
-          <li><a class="nav-link scrollto" href="ventes.php">Services </a></li>
-          <li><a class="nav-link scrollto" href="ventes.php">Logiciels </a></li>
+          <li><a class="nav-link scrollto" href="#featured-formation">Formations</a></li>
+          <li><a class="nav-link scrollto" href="#featured-services">Services </a></li>
+          <li><a class="nav-link scrollto" href="#featured-logiciels">Logiciels </a></li>
           <li class="dropdown"><a href="#">A propos<span> de nous </span> <i class="bi bi-chevron-down"></i></a>
             <ul>
-            <li><a href="onlinetest.php">Qui sommes-nous? </a></li>
-              <li><a href="tuteur.php">Nos partenaires   </a></li>
-              <li><a href="telechargements.php">Gallerie </a></li>              
+            <li><a href="#">Qui sommes-nous? </a></li>
+              <li><a href="#">Nos partenaires   </a></li>
+              <li><a href="#">Gallerie </a></li>              
             </ul>
           </li>
-          <li class="dropdown"><a href="#">Webtron<span>Ix</span> <i class="bi bi-chevron-down"></i></a>
-            <ul>
-            <li><a href="onlinetest.php">Audit informatique</a></li>
-              <li><a href="tuteur.php">Web hosting   </a></li>
-              <li><a href="telechargements.php">White hacking </a></li>              
+          <li class="dropdown"><a href="#">Webtron<span class="text-warning">Ix</span> <i class="bi bi-chevron-down"></i></a>
+            <ul class="bg-warning ">
+            <li><a class="text-danger " href="#">Audit informatique</a></li>
+              <li><a class="text-danger " href="#">Web hosting   </a></li>
+              <li><a class="text-danger " href="#">White hacking </a></li>              
             </ul>
           </li>
           <li><a class="nav-link scrollto" href="#contact">Contact</a></li>
