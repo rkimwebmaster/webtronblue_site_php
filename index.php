@@ -9,8 +9,8 @@ include('lignemain.php');
       <div class="container" data-aos="fade-up">
       <div class="section-title">
           <h2>Formations </h2>
-          <h3><span>Developpez vos talents avec nous </span></h3>
-          <p>On se cessera jamais d'apprendre.</p>
+          <h3><span>Développez vos talents avec nous </span></h3>
+          <p>On ne cessera jamais d'apprendre.</p>
         </div>
         <div class="row">
           <div class="col-md-6 col-lg-3 d-flex align-items-stretch mb-5 mb-lg-0">
@@ -82,7 +82,7 @@ include('lignemain.php');
               <div class="icon"><i class="bx bx-file"></i></div>
               <h4 class="title"><a href="">Audit Informatique </a></h4>
               <p class="description">
-                Faites auditez vos services et systemes informatiques chez nous. Nos experts sont là pour vous.
+                Faîtes auditer vos systemes informatiques chez nous. Nos experts sont là pour vous.
               </p>
             </div>
           </div>
@@ -90,9 +90,9 @@ include('lignemain.php');
           <div class="col-md-6 col-lg-3 d-flex align-items-stretch mb-5 mb-lg-0">
             <div class="icon-box" data-aos="fade-up" data-aos-delay="300">
               <div class="icon"><i class="bx bx-tachometer"></i></div>
-              <h4 class="title"><a href="">White hacking  </a></h4>
+              <h4 class="title"><a href="">White Hacking  </a></h4>
               <p class="description">
-                tester la performances et decouvrer les failles de vos systemes d'infotmations. on est jamais à l'abris du danger.
+                Testez la performances et decouvrer les failles de vos systemes d'infotmations. on est jamais à l'abris du danger.
               </p>
             </div>
           </div>
@@ -102,7 +102,7 @@ include('lignemain.php');
               <div class="icon"><i class="bx bx-world"></i></div>
               <h4 class="title"><a href="">Web Hosting  </a></h4>
               <p class="description">
-                Heberger vos projets web et APi en lieux sur. Grace a une grille tarifaire abordable et une securité accrue.
+                Heberger vos projets web et API en lieux sur. Grace a une grille tarifaire abordable et une securité accrue.
               </p>
             </div>
           </div>
@@ -157,7 +157,7 @@ include('lignemain.php');
               <div class="icon"><i class="bx bx-world"></i></div>
               <h4 class="title"><a href="">TshilandIce </a></h4>
               <p class="description">
-                Jeux vidéo à l'africaine. L'afrique est un terroire d'intelligennce.
+                Jeux vidéo à l'africaine. L'Afrique est un térroire d'intelligennce.
               </p>
             </div>
           </div>
